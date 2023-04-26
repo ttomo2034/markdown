@@ -8,4 +8,4 @@
 - 睡眠
 
 ## 写真
-![neko](img.jepg)
+![neko](img.jpeg)
